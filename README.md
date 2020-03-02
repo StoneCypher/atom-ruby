@@ -1,3 +1,13 @@
+this was a server product that was shut down years ago
+
+security holes are building up and i don't feel like fixing them because there's nothing to connect to
+
+don't use this code
+
+<br/><br/><hr/><br/><br/>
+
+
+
 # ironSource.atom SDK for Ruby
 [![License][license-image]][license-url]
 [![Build status][travis-image]][travis-url]
